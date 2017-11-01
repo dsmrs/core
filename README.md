@@ -1,6 +1,6 @@
 # @ngx-translate/core [![Build Status](https://travis-ci.org/ngx-translate/core.svg?branch=master)](https://travis-ci.org/ngx-translate/core) [![npm version](https://img.shields.io/npm/v/@ngx-translate/core.svg)](https://www.npmjs.com/package/@ngx-translate/core)
 
-The internationalization (i18n) library for Angular 2+.
+The internationalizations (i18n) library for Angular 2+.
 
 Simple example using ngx-translate: https://plnkr.co/edit/WccVZSBM0rUgq2sXSUbe?p=preview
 
